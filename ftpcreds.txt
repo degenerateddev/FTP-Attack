@@ -1,0 +1,14 @@
+pi:raspberry
+administrator:password
+administrator:admin
+administrator:12345
+admin:12345
+admin:admin
+admin:secret
+admin:password
+root:secret
+root:toor
+root:12345
+root:password
+guest:guest
+guest:12345
